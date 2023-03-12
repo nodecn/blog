@@ -1,4 +1,1 @@
 这是一个使用JavaScript编写的基于WebGL的网页版minecraft
-
-
-该仓库即将改为博客
