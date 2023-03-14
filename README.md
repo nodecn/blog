@@ -1,1 +1,5 @@
-这是一个使用JavaScript编写的基于WebGL的网页版minecraft
+这是一个多游戏的网页
+网页游戏
+1.minecraft
+2.扫雷
+3.....................
